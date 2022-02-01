@@ -5,7 +5,7 @@
   "repository": "https://github.com/juuyokka/TikTokBot",
   "env": {
     "TOKEN": {
-      "description": "VLvOnxAmvWOb79VS3zj9VLwTsm3z6eS-"
+      "description": "OTM3OTUzNjI2OTE0MTYwNjYw.YfjPYg.bcRPYA0EGOZ1KoflnemCEdwjJzk"
     },
     "TIMEOUT": {
       "description": "The amount of time to timeout if a message takes too long to send in milliseconds",
