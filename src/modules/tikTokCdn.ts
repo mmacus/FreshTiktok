@@ -10,7 +10,7 @@ export default async (tikTokLink: string) => {
     const browser = await launch({ headless: true, args: ['--no-sandbox', '--disable-setuid-sandbox'] });
     const page = await browser.newPage();
     
-    await page.goto('https://musicallydown.com/');
+    await page.goto('https://musicaldown.com/');
 
     await page.type('#link_url', tikTokLink);
     await page.keyboard.press('Enter');
