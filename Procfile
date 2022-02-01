@@ -1,1 +1,1 @@
-worker: app.json
+worker: npm start
